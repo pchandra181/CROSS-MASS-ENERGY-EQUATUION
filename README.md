@@ -1,5 +1,4 @@
 # Cross-Mass Velocity & Energy Equation: A Conceptual Scientific Note
-#AUTHOR-PRAKASH CHANDRA
 
 ## 1. Introduction
 This concept presents a new energy-generation model based on the difference between the velocity vectors of two masses ($m_1$ and $m_2$). According to the proposed equation, energy is produced only when there is a difference in velocity and direction between the two masses. If no such difference exists, no energy is generated.
@@ -20,7 +19,7 @@ $$E = | m_1\vec{C_1} - m_2\vec{C_2} |$$
 ## 3. Fundamental Claim
 This theory challenges Einstein’s $E = mc^2$, which states that a mass approaching the speed of light undergoes exponential mass increase, preventing it from exceeding light speed.
 
-**The Cross-Mass enegy theory claims:**
+**The Cross-Mass theory claims:**
 - If a force is applied in the same direction as the mass is already moving, then the energy requirement becomes minimal.
 - As a result, the object can theoretically surpass the speed of light, because opposing forces (drag, resistance) become nearly zero.
 
@@ -40,5 +39,5 @@ This equation introduces a new relationship between energy, mass, and velocity, 
 - Force applied in the same direction as motion requires minimal energy input.
 - An object may achieve extremely high speeds — even beyond the speed of light — under this condition.
 
-The **Cross-Mass Velocity & Energy Equation** serves as a foundation for re-evaluating classical physics concepts and opening new directions in advanced dynamic system research.
-
+---
+**Author:** Prakash Chandra
