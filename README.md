@@ -40,5 +40,5 @@ This equation introduces a new relationship between energy, mass, and velocity, 
 - An object may achieve extremely high speeds — even beyond the speed of light — under this condition.
 
 ---
-**Author:** Prakash Chandra
+**Author:** Prakash Chandra/
 independent researcher
