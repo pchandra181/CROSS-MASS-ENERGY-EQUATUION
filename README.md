@@ -1,4 +1,5 @@
 # Cross-Mass Velocity & Energy Equation: A Conceptual Scientific Note
+#AUTHOR-PRAKASH CHANDRA
 
 ## 1. Introduction
 This concept presents a new energy-generation model based on the difference between the velocity vectors of two masses ($m_1$ and $m_2$). According to the proposed equation, energy is produced only when there is a difference in velocity and direction between the two masses. If no such difference exists, no energy is generated.
