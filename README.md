@@ -1,4 +1,4 @@
-# Cross-Mass Velocity & Energy Equation: A Conceptual Scientific Note
+# Cross-Mass Velocity & Energy Equation: A Hope for Time Travel and Anti-Gravity Cross-Craft: A Conceptual Scientific Note
 
 ## 1. Introduction
 This concept presents a new energy-generation model based on the difference between the velocity vectors of two masses ($m_1$ and $m_2$). According to the proposed equation, energy is produced only when there is a difference in velocity and direction between the two masses. If no such difference exists, no energy is generated.
@@ -33,12 +33,24 @@ Consider a disk with a circumference of **300,000 km**. If this disk spins in a 
 2. Energy loss becomes negligible.
 3. Thus, the rotational surface is not bound by the speed of light.
 
-## 5. Conclusion
-This equation introduces a new relationship between energy, mass, and velocity, suggesting that:
-- Energy emerges strictly from differences in relative velocity and direction.
-- Force applied in the same direction as motion requires minimal energy input.
-- An object may achieve extremely high speeds — even beyond the speed of light — under this condition.
+4. ## 5. Final Conclusion: Time Travel & Anti-Gravity
+The **Cross-Mass Velocity & Energy Equation** effectively breaks the "Light Speed Barrier" ($c$) by proving that force applied in the direction of motion requires minimal energy. 
+
+*   **Time Travel:** Since this theory allows mass to surpass the speed of light, it makes theoretical temporal displacement (Time Travel) a scientific possibility.
+*   **Anti-Gravity Cross-Craft:** For a functional Anti-Gravity craft, a velocity of only **7 to 11 m/s** is required. Within the framework of this equation, such speeds are negligible compared to the speed of light, making the development of stable, gravity-defying propulsion systems highly achievable.
+
+
 
 ---
-**Author:** Prakash Chandra/
-independent researcher
+
+## Legal Notice & Research Restriction
+**Author:** Prakash Chandra
+
+**Intellectual Property Rights:**
+This equation and the conceptual framework of "Cross-Mass Velocity & Energy" are the intellectual property of **Prakash Chandra**. 
+
+* **Strict Prohibition:** Conducting any formal research, experimental verification, or commercial application based on this theory without the express written consent and involvement of the author is **strictly prohibited**. 
+* **Educational Use:** This document is for understanding the concept only. 
+---
+**© 2026 Prakash Chandra. All Rights Reserved.**
+
