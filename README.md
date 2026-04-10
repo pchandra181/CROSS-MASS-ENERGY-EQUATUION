@@ -44,7 +44,7 @@ The **Cross-Mass Velocity & Energy Equation** effectively breaks the "Light Spee
 ---
 
 ## Legal Notice & Research Restriction
-**Author:** Prakash Chandra//Uttrakhand(INDIA)
+**Author:** Prakash Chandra//Uttrakhand(INDIA)//e-mail:pcgango55@gmail.com
 
 **Intellectual Property Rights:**
 This equation and the conceptual framework of "Cross-Mass Velocity & Energy" are the intellectual property of **Prakash Chandra**. 
