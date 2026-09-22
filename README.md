@@ -1,21 +1,20 @@
 # Cross-Mass Velocity & Energy Equation: A Hope for Time Travel and Anti-Gravity Cross-Craft: A Conceptual Scientific Note
 
 ## 1. Introduction
-This concept presents a new energy-generation model based on the difference between the velocity vectors of two masses ($m_1$ and $m_2$). According to the proposed equation, energy is produced only when there is a difference in velocity and direction between the two masses. If no such difference exists, no energy is generated.
+This concept presents an advanced energy-generation model based on the difference between the light-speed velocity vectors of two mass systems ($m_1$ and $m_2$). According to the proposed equation, relativistic energy gradients are produced only when there is a directional or phase difference between the two light-speed fields. If no such difference exists, no net relative energy is generated.
 
 ## 2. Proposed Equation
 $$E = \frac{1}{2}\mu |\vec{C_{1}} - \vec{C_{2}}|^{2}$$
 
-
 **Where:**
-- **$E$**: Net generated energy
-- **$\mu$**: Reduced mass of the system, defined as $\frac{m_1 m_2}{m_1 + m_2}$
-- **$\vec{v_{1}}, \vec{v_{2}}$**: Their velocity vectors
-- **$\rightarrow$**: Denotes direction of motion
+- **$E$**: Net generated energy (Relativistic Field Output)
+- **$\mu$**: Reduced mass of the interaction core, defined as $\frac{m_1 m_2}{m_1 + m_2}$
+- **$\vec{C_{1}}, \vec{C_{2}}$**: Their respective light-speed velocity vectors ($|\vec{C_1}| = |\vec{C_2}| = c$)
+- **$\rightarrow$**: Denotes direction of the light-speed motion vectors
 
 ### Core Idea
-* The greater the difference in the velocity vectors of the two masses, the greater the generated energy.
-* The smaller the difference, the smaller the generated energy.
+* **Directional Gradient:** Since the magnitude of both vectors is fixed at the speed of light ($c$), the generated energy is entirely dependent on the **angle and direction** between $\vec{C_{1}}$ and $\vec{C_{2}}$. The wider the directional divergence, the higher the space-time energy gradient.
+* **The Zero-State Boundary:** If both light-speed vectors align perfectly in the exact same direction ($\vec{C_{1}} = \vec{C_{2}}$), the vector subtraction yields zero. Consequently, the net generated energy drops to absolute zero, meaning no localized distortion occurs when the system moves in perfect synchrony.
 
 ## 3. Fundamental Claim
 This theory challenges Einstein’s $E = mc^2$, which states that a mass approaching the speed of light undergoes exponential mass increase, preventing it from exceeding light speed.
