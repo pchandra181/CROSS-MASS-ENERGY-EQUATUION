@@ -4,7 +4,8 @@
 This concept presents a new energy-generation model based on the difference between the velocity vectors of two masses ($m_1$ and $m_2$). According to the proposed equation, energy is produced only when there is a difference in velocity and direction between the two masses. If no such difference exists, no energy is generated.
 
 ## 2. Proposed Equation
-$$E = \frac{1}{2}\mu |\vec{v_{1}} - \vec{v_{2}}|^{2}$$
+$$E = \frac{1}{2}\mu |\vec{C_{1}} - \vec{C_{2}}|^{2}$$
+
 
 **Where:**
 - **$E$**: Net generated energy
