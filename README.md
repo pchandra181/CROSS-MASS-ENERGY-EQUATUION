@@ -3,6 +3,11 @@
 ## 1. Introduction
 This concept presents a new energy-generation model based on the difference between the variable light-speed velocity vectors of two masses ($m_1$ and $m_2$). According to the proposed equation, energy is produced only when there is a difference in velocity and direction between the two masses. If no such difference exists, no energy is generated.
 
+## 🤝 Acknowledgements
+
+Special thanks to **Ashish Soni** (IIT Roorkee) for pointing out and correcting the dimensional inconsistency in the cross-mass-velocity and energy equation from the previous draft. His timely technical correction greatly helped in ensuring the scientific precision of this model.
+
+
 ## 2. Proposed Equation
 $$E = \frac{1}{2}\mu |\vec{C_{1}} - \vec{C_{2}}|^{2}$$
 
